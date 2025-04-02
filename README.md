@@ -8,6 +8,7 @@ How to update the Apple MDM push certificate
 
 3.	Click on “Renew” on the Apple MDM push certificate 
 
+![MDM Push Certicate](./MDM-Certificate.png)
 4.	Follow the instructions on the page “Renew Certificate” Page
  
 5.	Download your certificate signing request (CSR), signed by Meraki: Meraki_Apple_CSR.csr
