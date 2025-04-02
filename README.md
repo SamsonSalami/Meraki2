@@ -4,6 +4,8 @@ How to update the Apple MDM push certificate
 1.	Log into Meraki with the admin account to gain access to the “Organisation” page. 
 2.	Click “MDM” 
 
+![MDM page]./(Meraki.png)
+
 3.	Click on “Renew” on the Apple MDM push certificate 
 
 4.	Follow the instructions on the page “Renew Certificate” Page
