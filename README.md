@@ -11,7 +11,8 @@ How to update the Apple MDM push certificate
 ![MDM Push Certicate](./MDM-Certificate.png)
 
 4.	Follow the instructions on the page “Renew Certificate” Page
- 
+
+ ![MDM Setting](./MDM-Setting.png)
 5.	Download your certificate signing request (CSR), signed by Meraki: Meraki_Apple_CSR.csr
 6.	Follow the link on the instruction and log into the Apple Push Certificate page and click on the “Info” icon to compare the “UID” number. 
 PS: you can find the UID number to compare on the iPad settings
