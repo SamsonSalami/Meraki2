@@ -1,4 +1,4 @@
-# Meraki2
+# How to update the Apple MDM push certificate on Meraki2
 
 How to update the Apple MDM push certificate
 1.	Log into Meraki with the admin account to gain access to the “Organisation” page. 
